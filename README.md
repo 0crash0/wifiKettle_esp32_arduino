@@ -8,8 +8,8 @@ https://github.com/0crash0/wifiKettle_android_app
 
 ### Screenshots 
 <img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img1.jpg" width="100">
-![screen2](https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img2.jpg | width=100)
-![screen3](https://github.com/0crash0/wifiKettle_esp32_arduinor/blob/main/images/img3.jpg | width=100)
-![screen1](https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img4.jpg | width=100)
-![screen2](https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img5.jpg | width=100)
-![screen3](https://github.com/0crash0/wifiKettle_esp32_arduinor/blob/main/images/img6.jpg | width=100)
+<img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img2.jpg" width="100">
+<img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img3.jpg" width="100">
+<img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img4.jpg" width="100">
+<img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img5.jpg" width="100">
+<img src="https://github.com/0crash0/wifiKettle_esp32_arduino/blob/main/images/img6.jpg" width="100">
