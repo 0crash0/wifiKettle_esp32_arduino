@@ -1,5 +1,5 @@
 # wifiKettle_esp32_arduino
-## Project is discontinued
+### Project is discontinued
 ### This is my very old Android project that I made for an exhibition sometime in 2019.
 
 ### Android app for that iot kettle project:
